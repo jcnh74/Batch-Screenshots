@@ -4,8 +4,8 @@
 count=0
 
 # add temp directory if it doesn't already exist
-if [ ! -d .screenshots/ ]; then
-  mkdir -p .screenshots/;
+if [ ! -d ./screenshots/ ]; then
+  mkdir -p ./screenshots/;
 fi
 
 # iterate through included directories
