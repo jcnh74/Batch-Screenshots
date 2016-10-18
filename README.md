@@ -7,6 +7,7 @@ First
 - install ImageMagic via [This Link](http://www.gctv.ne.jp/~yokota/magick/#mem1)
 - change script permissions like this `chmod 700 ./sshot.sh`
 - run bash `./sshot.sh ~/Desktop/stickers/` where `~/Desktop/stickers/` is the directory with all your sticker directories
+- a directory will be add call `screenshots` and pngs will be added in sequential order ie. screenshot000.png, screenshot001.png, screenshot002.png ...
 
 Todo
 - place screenshots into created Screenshot directories
