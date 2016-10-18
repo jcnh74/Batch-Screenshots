@@ -1,5 +1,3 @@
-# Batch-Screenshots
-
 Batch Screenshots
 =====================
 
