@@ -1,6 +1,9 @@
 #!/bin/bash
 
 count=0
+if [ ! -d .screenshots/ ]; then
+  mkdir -p .screenshots/;
+fi
 for d in "$1"*; do
 	pngs=()
 	for f in "$d"/*.png; do
